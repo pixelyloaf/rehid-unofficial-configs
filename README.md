@@ -141,3 +141,4 @@ Simple camera remap. (Left/Right remapped to C-Nub)
  ## Credits
 @Nutez of gbatemp for let me include some of his remaps
 @Kartik for creating rehid and for all his help to improving this repo!
+@Nanashi13 for creating the original repo
