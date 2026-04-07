@@ -80,6 +80,9 @@ List of remaped games:
  
  * **Naruto Shippuden 3D : The New Era / Naruto Shippuden: Shinobi Rittai Emaki! Saikyou Ninkai Kessen!!**  
  Senin Mode touch button remapped to START.
+
+ * **(TEST) New Super Mario Bros. 2**  
+ Saved Item is mapped to start
  
  * **Luigis Mansion: Dark Moon**  
  Simple camera remap. (X/B remapped to C-Nub)

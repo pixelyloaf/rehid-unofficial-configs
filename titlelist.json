@@ -242,6 +242,14 @@
         "AU": 0,
         "KR": 0
     },
+    "New Super Mario Bros. 2": {
+        "EUR": "000400000007AF00",
+        "USA": "000400000007AE00",
+        "JPN": "000400000007AD00",
+        "TWN": 0,
+        "AU": "000400000007AF00",
+        "KR": 0
+    },
     "Persona Q - Shadow of the Labyrinth": {
         "EUR": [
             "00040000001D7600"
