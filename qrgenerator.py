@@ -2,6 +2,7 @@ import glob
 import qrcode
 
 files = glob.glob("configs/*/rehid.json")
+files = glob.glob("testconfigs/*/rehid.json")
 
 i = 0
 for file in files:
