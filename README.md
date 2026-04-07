@@ -126,7 +126,7 @@ Simple camera remap. (Left/Right remapped to C-Nub)
  * **Magi - Hajimari no Meikyuu**  
  Control camera with the C-Stick instead on the D-Pad, Change Character 1, Change Character 2 and Genie power touch button remapped to ZL, ZR and START.
  
- * **Mario Kart 7**
+ * **Mario Kart 7**  
  ZL+ZR do the same function as L+R, Y switches bottom screen view and D-Pad acts as C-Pad
 (idk if this even works it doesnt seem to register anything for me and isnt compatible with auto accelerate in CTGP 7 to my knowledge)
  
