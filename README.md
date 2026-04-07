@@ -128,7 +128,7 @@ Simple camera remap. (Left/Right remapped to C-Nub)
  
  * **Mario Kart 7**  
  ZL+ZR do the same function as L+R, Y switches bottom screen view and D-Pad acts as C-Pad
-(idk if this even works it doesnt seem to register anything for me and isnt compatible with auto accelerate in CTGP 7 to my knowledge)
+(idk if this even works it doesnt seem to register anything for me and isnt compatible with auto accelerate in CTGP 7 to my knowledge config also seems broken i dont know why)
  
  * **Kingdom Hearts 3D - Dream Drop Distance**  
  Control the Command Deck with the ZL and ZR instead on the D-PAD UP and DOWN (so you can browse trough your attacks/magics while still being able to move freely) and you can summon our Dream Eaters with LEFT and RIGHT (LEFT= 1st Dream Eater, RIGHT= 2nd Dream Eater).
