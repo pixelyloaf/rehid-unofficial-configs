@@ -132,10 +132,6 @@ Simple camera remap. (Left/Right remapped to C-Nub)
  * **(TEST) Mario Kart 7**  
  ZL+ZR do the same function as L+R, Y switches bottom screen view and D-Pad acts as C-Pad
 (idk if this even works it doesnt seem to register anything for me and isnt compatible with auto accelerate in CTGP 7 to my knowledge config also seems broken i dont know why)
-
-# ISSUES
-
-* Touchscreen doesnt work (planning to remove this)
  
  * **Kingdom Hearts 3D - Dream Drop Distance**  
  Control the Command Deck with the ZL and ZR instead on the D-PAD UP and DOWN (so you can browse trough your attacks/magics while still being able to move freely) and you can summon our Dream Eaters with LEFT and RIGHT (LEFT= 1st Dream Eater, RIGHT= 2nd Dream Eater).
@@ -143,7 +139,9 @@ Simple camera remap. (Left/Right remapped to C-Nub)
  * **Xenoblade Chronicles 3D**  
  Control the Menu with the ZL and ZR instead on the D-PAD LEFT and RIGTH (so you can browse trough the menu while still being able to move freely) , ZL (Map of the area in which your character is located) was remapped to the Mini Map ont the Touchscreen (So if you touch the Mini Map, it will open the bigger one. You can also use L+R buttons to open it)  and ZR (adjust camera angle and zoom in/out) to START button. (So now you can't press it accidentally)
  
- 
+ # ISSUES
+
+* (MK7) Touchscreen doesnt work for UI elements (planning to remove this)
  
  ## Credits
 @Nutez of gbatemp for let me include some of his remaps
