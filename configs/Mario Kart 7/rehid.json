@@ -1,0 +1,12 @@
+{
+"keys":
+[
+{"press":"ZL","get":"L"},
+{"press":"ZR","get":"R"}],
+"touch":
+[{"press":"Y","get":[165,124]}],
+"touchtokeys":[{"press":[0,1,116,319],
+"get":"UP"},{"press":[4,149,89,308],
+"get":"DOWN"}],
+"dpadtocpad":true
+}
