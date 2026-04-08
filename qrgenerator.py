@@ -34,6 +34,6 @@ for file in new3ds:
         img = qrcode.make(data)
         loc = file[file.find("/") + 1:]
         loc = loc[:loc.find("/")]
-        img.save("new3dsconfigs/" + loc + "/qr.png")
+        img.save("new3ds-configs/" + loc + "/qr.png")
         f.close()
         i = i + 1
