@@ -3,7 +3,7 @@ import qrcode
 
 files = glob.glob("configs/*/rehid.json")
 testfiles = glob.glob("testconfigs/*/rehid.json")
-new3ds = glob.glob("new3dsconfigs/*/rehid.json")
+new3ds = glob.glob("new3ds-configs/*/rehid.json")
 
 i = 0
 for file in files:
