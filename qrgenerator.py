@@ -28,7 +28,7 @@ for file in testfiles:
         i = i + 1
 
 i = 0
-for file in testfiles:
+for file in new3ds:
     with open(file, "r") as f:
         data = f.read()
         img = qrcode.make(data)
